@@ -45,10 +45,10 @@ Aquí comparto mis proyectos, experimentos y un poco de mi día a día. ¡Siént
 
 ## Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=acairon&show_icons=true&theme=dracula" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acairon&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,11 +58,6 @@ Aquí comparto mis proyectos, experimentos y un poco de mi día a día. ¡Siént
   <a href="https://www.linkedin.com/in/%C3%A1ngel-cairon-arcila-34791a213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-   <a href="https://acairon.github.io/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1827/PNG/512/4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" alt="LinkedIn">
-  </a>
-
   <a href="mailto:angelshce@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
