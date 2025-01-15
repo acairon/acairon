@@ -22,9 +22,9 @@ Aquí comparto mis proyectos, experimentos y un poco de mi día a día. ¡Siént
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat-square" alt="Lua"/>
 </p>
 
 > _"El buen café y el buen código siempre se disfrutan mejor en compañía"_
@@ -55,17 +55,19 @@ Aquí comparto mis proyectos, experimentos y un poco de mi día a día. ¡Siént
 
 ## ¿Quieres saludar?
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil/" target="_blank">
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-cairon-arcila-34791a213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:tu.correo@ejemplo.com" target="_blank">
+
+   <a href="https://acairon.github.io/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/1827/PNG/512/4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:angelshce@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://twitter.com/tu_usuario" target="_blank">
+  <a href="https://twitter.com/acairon" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://discord.gg/tu-invite" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
