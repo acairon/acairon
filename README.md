@@ -61,8 +61,8 @@ Aquí comparto mis proyectos, experimentos y un poco de mi día a día. ¡Siént
   <a href="mailto:angelshce@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://twitter.com/acairon" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+   <a href="https://acairon.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
